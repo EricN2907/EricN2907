@@ -3,7 +3,7 @@
 
 <!--  -->
 <p align ="center"> 
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E131F7&width=435&lines=Hi+there+!%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%98%80;I+am+Nguy%E1%BB%85n+Ho%C3%A0ng+Nam+%F0%9F%8C%B1;I+love+going+cafe+with+vibe+studying+for+code+%F0%9F%8C%88+;On-going+learning+C%23+%F0%9F%91%BE;Hope+you+have+a+good+days+%F0%9F%92%AB" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E131F7&width=435&lines=Hi+there+!%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%98%80;I+am+Nguy%E1%BB%85n+Ho%C3%A0ng+Nam+%F0%9F%8C%B1;I+love+going+cafe+with+vibe+studying+for+code+%F0%9F%8C%88+%E2%98%95;On-going+learning+C%23+%F0%9F%91%BE;Hope+you+have+a+good+days+%F0%9F%92%AB" alt="Typing SVG" /></a>
 </p>
 
 ### 📫 Reach me at:
@@ -48,3 +48,12 @@
 ---
 ### Later , I gonna have my github stats if It's good🥰
 > 🤝 *Feel free to connect with me. Let's learn and grow together!*
+
+
+
+
+
+
+
+
+
