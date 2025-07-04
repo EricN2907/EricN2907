@@ -46,7 +46,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
-### Later , I gonna have my github stats if It's good🥰
+### Later , I gonna public my github stats if It's good🥰
 > 🤝 *Feel free to connect with me. Let's learn and grow together!*
 
 
