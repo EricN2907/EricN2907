@@ -14,7 +14,7 @@
 - Become a professional **.NET Full-stack Developer**
 - Master **Clean Architecture**, **EF Core**, and modern web technologies
 - Build products that help real people solve real problems
-- Also I goona try to reach > 200 commits in this year (2025)😅
+- Also I gonna try to reach > 200 commits in this year (2025)😅
 ---
 ### 🧠 Fun facts:
 - Love coding at coffee shops ☕ with lo-fi music 🎧  
