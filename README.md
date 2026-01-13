@@ -22,6 +22,8 @@
 - Enjoy playing some chilling game while bug is unsolved and return when my mind clear🚀
 ---
 
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ## 🧰 Tech Stack
@@ -45,8 +47,27 @@
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+
+<h2 align="center">📊 My GitHub Activities</h2>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" style="vertical-align: middle; border: none;">
+       <img src="https://github-readme-stats-fork.vercel.app/api/top-langs/?username=EricN2907&theme=midnight-purple&hide_border=true&include_all_commits=true&layout=compact" alt="Top Languages" width="100%"/>  
+       <br/>
+       <img src="https://github-readme-stats-fork.vercel.app/api?username=EricN2907&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" align="center" style="vertical-align: middle; border: none;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lrMHh4MWdtbHp6OXptZHUxM3VvejB5OWd1MnFnMW03d2F6anRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" alt="Coding Dev" width="90%" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>"Lập trình cũng như tìm kiếm Chi vậy: Luôn cần sự kiên nhẫn (Try) và hy vọng không có ngoại lệ (Catch)."</i>
+</p>
+
 ---
-### Later , I gonna public my github stats if It's good🥰
 > 🤝 *Feel free to connect with me. Let's learn and grow together!*
 
 
