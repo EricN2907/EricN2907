@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi, I'm Nguyễn Hoàng Nam 👋</b></h1>
+<h1 align="center"><b>Hi, I'm Nguyễn Hoàng Nam 👋🦆</b></h1>
 
 <!--  -->
 <p align ="center"> 
