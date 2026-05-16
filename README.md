@@ -75,7 +75,9 @@
 </p>
 
 ---
-![snake gif](https://github.com/EricN2907/EricN2907/blob/output/github-contribution-grid-snake.svg)
+
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricN2907/EricN2907/output/github-contribution-grid-snake.svg">
+
 ---
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EricN2907)](https://github.com/ryo-ma/github-profile-trophy)
 
