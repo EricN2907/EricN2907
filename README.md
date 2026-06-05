@@ -1,5 +1,9 @@
 <h1 align="center"><b>Hi, I'm Nguyễn Hoàng Nam 👋🦆</b></h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EricN2907&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <!-- Typing SVG -->
 <p align ="center"> 
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E131F7&width=435&lines=Hi+there+!%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%98%80;I+am+Nguy%E1%BB%85n+Ho%C3%A0ng+Nam+%F0%9F%8C%B1;I+love+going+to+cafes+with+study+vibes+%E2%98%95;On-going+learning+C%23+%26+Node.js+%F0%9F%91%BE;Hope+you+have+a+good+day+%F0%9F%92%AB" alt="Typing SVG" /></a>
@@ -71,6 +75,10 @@
 </table>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricN2907&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <i>"Programming is like seeking inner peace: Always requires a <b>Try</b>, and hoping there is no <b>Exception</b>."</i>
 </p>
 
@@ -79,7 +87,12 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricN2907/EricN2907/output/github-contribution-grid-snake.svg">
 
 ---
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EricN2907)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=EricN2907&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 > 🤝 *Feel free to connect with me. Let's learn and grow together!*
