@@ -16,7 +16,7 @@
 ---
 
 ### 🎯 Goals:
-- Become a professional **Backend / Full-stack Developer** (.NET & Node.js)
+- Become a professional **Backend / Full-stack Developer** (in .NET first)
 - Master **Clean Architecture**, **EF Core**, and Cloud Infrastructure
 - Build scalable products that help real people solve real problems
 - Reach **> 500 commits** on GitHub this year (2026) 🚀
