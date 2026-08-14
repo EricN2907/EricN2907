@@ -7,6 +7,18 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E131F7&width=435&lines=Hi+there+!%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%98%80;I+am+Nguy%E1%BB%85n+Ho%C3%A0ng+Nam+%F0%9F%8C%B1;I+love+going+to+cafes+with+study+vibes+%E2%98%95;On-going+learning+C%23+%26+Node.js+%F0%9F%91%BE;Hope+you+have+a+good+day+%F0%9F%92%AB" alt="Typing SVG" /></a>
 </p>
 
+---
+
+## 🎮 My Discord
+
+<p align="center">
+  <a href="https://discord.com/users/935763643721711626">
+    <img src="https://lanyard.cnrad.dev/api/935763643721711626?theme=dark" alt="Discord Presence" />
+  </a>
+</p>
+
+---
+
 ### 📫 Reach me at:
 - **📧 Gmail:** [nemnguyenhoang2907@gmail.com](mailto:nemnguyenhoang2907@gmail.com)  
 - **📘 Facebook:** [facebook.com/Nemsadboiz2907](https://www.facebook.com/Nemsadboiz2907)
