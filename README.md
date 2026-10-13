@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp;
-  <a href="#activity">Activity</a> &nbsp; / &nbsp;
-  <a href="#connect">Contact</a>
+  <a href="#tech-stack"><img src="./assets/nav-stack.svg" width="104" height="36" alt="Tech stack" /></a>
+  <a href="#activity"><img src="./assets/nav-activity.svg" width="104" height="36" alt="Activity" /></a>
+  <a href="#connect"><img src="./assets/nav-contact.svg" width="104" height="36" alt="Contact" /></a>
 </p>
 
 I'm **Nguyễn Hoàng Nam**, working toward becoming a backend / full-stack developer, with **.NET first**. I like useful APIs, clean project structure and learning by shipping small things.
