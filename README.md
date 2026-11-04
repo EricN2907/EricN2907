@@ -2,9 +2,12 @@
 
 
 
-<!-- Typing SVG -->
-<p align ="center"> 
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E131F7&width=435&lines=Hi+there+!%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%98%80;I+am+Nguy%E1%BB%85n+Ho%C3%A0ng+Nam+%F0%9F%8C%B1;I+love+going+to+cafes+with+study+vibes+%E2%98%95;On-going+learning+C%23+%26+Node.js+%F0%9F%91%BE;Hope+you+have+a+good+day+%F0%9F%92%AB" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Developer journal: backend, .NET, Node.js. Build, learn, repeat." />
+</p>
+
+<p align="center">
+  <a href="#-featured-projects">Projects</a> &nbsp; / &nbsp; <a href="#-skills--tech-stack">Tech stack</a> &nbsp; / &nbsp; <a href="#-my-github-activities">Activity</a> &nbsp; / &nbsp; <a href="mailto:nemnguyenhoang2907@gmail.com">Say hello</a>
 </p>
 
 ---
