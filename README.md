@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#-featured-projects">Projects</a> &nbsp; / &nbsp; <a href="#-skills--tech-stack">Tech stack</a> &nbsp; / &nbsp; <a href="#-my-github-activities">Activity</a> &nbsp; / &nbsp; <a href="mailto:nemnguyenhoang2907@gmail.com">Say hello</a>
+  <a href="#projects">Projects</a> &nbsp; / &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp; <a href="#activity">Activity</a> &nbsp; / &nbsp; <a href="mailto:nemnguyenhoang2907@gmail.com">Say hello</a>
 </p>
 
 ---
@@ -45,13 +45,23 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Tech Stack</b>
+<a id="tech-stack"></a>
+## 🛠️ Skills & Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,js,java,dotnet,nodejs,aws,grafana,postgres,mssql,git,github,obsidian,html,css" alt="My Skills" />
-  </a>
+| Focus | Tools I work with |
+| :--- | :--- |
+| **Backend & APIs** | C# · .NET · Node.js · Java |
+| **Data & cloud** | PostgreSQL · SQL Server · AWS |
+| **Frontend foundations** | JavaScript · HTML · CSS |
+| **Everyday tools** | Git · GitHub · Grafana · Obsidian |
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,aws,postgres,mssql,git,github,grafana,obsidian,js,html,css&amp;perline=7&amp;theme=dark" alt="Backend, data, cloud and development tools" /></a>
 </p>
+
+### 🌱 Learning in public
+
+My current learning focus is **Clean Architecture**, **EF Core** and **cloud infrastructure**. I enjoy taking an idea from a small API to a working product, then improving it one step at a time.
 
 ---
 
