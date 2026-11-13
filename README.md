@@ -65,6 +65,23 @@ My current learning focus is **Clean Architecture**, **EF Core** and **cloud inf
 
 ---
 
+<a id="projects"></a>
+## 🚀 Featured Projects
+
+### [Serverless Student Management](https://github.com/EricN2907/fcj-fall2025-serverless-student-management-system)
+A student management project combining a **Spring Boot backend**, **React frontend** and **AWS services**. A place to explore API design, authentication and cloud integration.
+
+### [Glass Store Management](https://github.com/EricN2907/PRN222_glassStore)
+A **C# / ASP.NET Core MVC** application with **SQL Server** and separate entity, repository and service layers. Built around the day-to-day needs of an eyewear store.
+
+### [My Portfolio](https://github.com/EricN2907/my-portfolio)
+My personal **Next.js** portfolio — a space to present my work and keep improving the way I tell the story behind it.
+
+[Explore all repositories →](https://github.com/EricN2907?tab=repositories)
+
+---
+
+<a id="activity"></a>
 <h2 align="center">📊 My GitHub Activities</h2>
 
 <table align="center" style="border-collapse: collapse; border: none;">
