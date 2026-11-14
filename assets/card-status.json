@@ -1,0 +1,22 @@
+{
+  "trophies.svg": {
+    "fetchedAt": "2026-11-25T16:03:11+00:00",
+    "source": "https://trophy.ryglcloud.net/?username=EricN2907&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=4"
+  },
+  "stats.svg": {
+    "fetchedAt": "2026-11-25T16:03:11+00:00",
+    "source": "https://github-readme-stats-fork.vercel.app/api?username=EricN2907&theme=midnight-purple&hide_border=true&include_all_commits=true"
+  },
+  "languages.svg": {
+    "fetchedAt": "2026-11-25T16:03:11+00:00",
+    "source": "https://github-readme-stats-fork.vercel.app/api/top-langs/?username=EricN2907&theme=midnight-purple&hide_border=true&layout=compact"
+  },
+  "streak.svg": {
+    "fetchedAt": "2026-11-25T16:03:11+00:00",
+    "source": "https://streak-stats.demolab.com/?user=EricN2907&theme=dracula&hide_border=true"
+  },
+  "activity.svg": {
+    "fetchedAt": "2026-11-25T16:03:11+00:00",
+    "source": "https://github-readme-activity-graph.vercel.app/graph?username=EricN2907&theme=dracula"
+  }
+}

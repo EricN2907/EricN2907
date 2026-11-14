@@ -23,10 +23,10 @@
 ---
 
 ### 📫 Reach me at:
-- **📧 Gmail:** [nemnguyenhoang2907@gmail.com](mailto:nemnguyenhoang2907@gmail.com)  
+- **📧 Gmail:** [nemnguyenhoang2907@gmail.com](mailto:nemnguyenhoang2907@gmail.com)
 - **📘 Facebook:** [facebook.com/Nemsadboiz2907](https://www.facebook.com/Nemsadboiz2907)
 ---
-[![HoangNam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=EricN2907&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![HoangNam's Contribution Graph](./assets/activity.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -39,8 +39,8 @@
 ---
 
 ### 🧠 Fun facts:
-- Love coding at coffee shops ☕ with lo-fi music 🎧  
-- Favorite quote: `"while (!Success) { tryAgain(); if (Success) improve(); }"`  
+- Love coding at coffee shops ☕ with lo-fi music 🎧
+- Favorite quote: `"while (!Success) { tryAgain(); if (Success) improve(); }"`
 - Enjoy playing chilling games while a bug is unsolved, returning when my mind is clear 🕹️
 
 ---
@@ -87,9 +87,9 @@ My personal **Next.js** portfolio — a space to present my work and keep improv
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" style="vertical-align: middle; border: none;">
-       <img src="https://github-readme-stats-fork.vercel.app/api/top-langs/?username=EricN2907&theme=midnight-purple&hide_border=true&include_all_commits=true&layout=compact" alt="Top Languages" width="100%"/>  
+       <img src="./assets/languages.svg" alt="Top Languages" width="100%"/>
        <br/>
-       <img src="https://github-readme-stats-fork.vercel.app/api?username=EricN2907&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+       <img src="./assets/stats.svg" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center" style="vertical-align: middle; border: none;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lrMHh4MWdtbHp6OXptZHUxM3VvejB5OWd1MnFnMW03d2F6anRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" alt="Coding Dev" width="90%" style="border-radius: 10px;"/>
@@ -98,7 +98,7 @@ My personal **Next.js** portfolio — a space to present my work and keep improv
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricN2907&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">

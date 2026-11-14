@@ -1,0 +1,44 @@
+name: Refresh profile cards
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/refresh_cards.py
+      - tests/test_refresh_cards.py
+      - .github/workflows/profile-cards.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: "3.13"
+      - name: Test snapshot validation and fallback
+        run: python -m unittest discover -s tests -v
+      - name: Refresh SVG snapshots
+        run: python scripts/refresh_cards.py
+      - name: Commit refreshed cards
+        env:
+          PROFILE_BRANCH: ${{ github.ref_name }}
+        run: |
+          git add -- assets/*.svg assets/card-status.json
+          if git diff --cached --quiet; then
+            echo "Profile cards are unchanged."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore(profile): refresh cached cards'
+          git push origin "HEAD:${PROFILE_BRANCH}"
