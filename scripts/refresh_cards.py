@@ -10,6 +10,7 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = [
     {"file": "trophies.svg", "url": "https://trophy.ryglcloud.net/?username=EricN2907&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=4", "markers": ["Commits", "Followers"]},
+    {"file": "trophies-mobile.svg", "url": "https://trophy.ryglcloud.net/?username=EricN2907&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=2&row=4", "markers": ["Commits", "Followers"]},
     {"file": "stats.svg", "url": "https://github-readme-stats-fork.vercel.app/api?username=EricN2907&theme=midnight-purple&hide_border=true&include_all_commits=true", "markers": ["Total Commits", "Total PRs"]},
     {"file": "languages.svg", "url": "https://github-readme-stats-fork.vercel.app/api/top-langs/?username=EricN2907&theme=midnight-purple&hide_border=true&layout=compact", "markers": ["Most Used Languages"]},
     {"file": "streak.svg", "url": "https://streak-stats.demolab.com/?user=EricN2907&theme=dracula&hide_border=true", "markers": ["Total Contributions", "Current Streak"]},
