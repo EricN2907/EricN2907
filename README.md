@@ -84,12 +84,17 @@ My favorite reminder: `while (!Success) { tryAgain(); if (Success) improve(); }`
 ---
 
 <a id="connect"></a>
-## 🤝 Let's Connect
+<h2 align="center">Let's connect 🤝</h2>
 
-**Email:** [nemnguyenhoang2907@gmail.com](mailto:nemnguyenhoang2907@gmail.com)<br>
-**Facebook:** [Nemsadboiz2907](https://www.facebook.com/Nemsadboiz2907) · **Discord:** [My Discord](https://discord.com/users/935763643721711626)
+<p align="center">Have an idea, a question, or just want to say hi?</p>
 
-> Feel free to connect with me. Let's learn and grow together!
+<p align="center">
+  <a href="mailto:nemnguyenhoang2907@gmail.com"><img src="./assets/contact-email.svg" width="104" height="40" alt="Send me an email" /></a>
+  <a href="https://www.facebook.com/Nemsadboiz2907"><img src="./assets/contact-facebook.svg" width="104" height="40" alt="Visit my Facebook profile" /></a>
+  <a href="https://discord.com/users/935763643721711626"><img src="./assets/contact-discord.svg" width="104" height="40" alt="Open my Discord profile" /></a>
+</p>
+
+<p align="center"><sub><a href="mailto:nemnguyenhoang2907@gmail.com">nemnguyenhoang2907@gmail.com</a><br />Let's learn and grow together.</sub></p>
 
 ---
 
