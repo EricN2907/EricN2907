@@ -1,6 +1,6 @@
 # Maintaining this profile
 
-The profile README uses a custom vector banner, real public project links and checked-in SVG cards. Six images cover the five card types, including a two-column trophy layout for phones. They remain visible even when their upstream providers are down.
+The profile README uses a custom vector banner and checked-in SVG cards. Six images cover the five card types, including a two-column trophy layout for phones. They remain visible even when their upstream providers are down.
 
 ## Local commands
 
@@ -24,10 +24,10 @@ The Actions jobs have not been executed remotely as part of this local update. I
 
 ## Editing content
 
-- Edit personal copy and featured project links in `README.md`.
+- Edit personal copy in `README.md`.
 - Edit the original banner in `assets/profile-hero.svg`; it contains no external fonts or scripts.
 - Keep third-party notices in `assets/CREDITS.md` and `assets/licenses/` when updating cards.
-- Core stats/trophies are local; the skills icons, snake, Discord and Spotify widgets still depend on their providers. Discord and Spotify are grouped in the optional personal section, with direct links alongside them.
+- Core stats/trophies are local; the skills icons, snake, Discord and Spotify widgets still depend on their providers. Discord and Spotify are always visible at the bottom of the README, using their original widget URLs.
 
 ## Requested commit dates
 
