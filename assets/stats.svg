@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nguy&#7877;n Ho&#224;ng Nam's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 1, Total PRs: 154, Total Issues: 5, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 1, Total PRs: 156, Total Issues: 5, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -66,7 +66,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 119.07156373464449;
+        stroke-dashoffset: 119.02435551507156;
       }
     }
 
@@ -177,7 +177,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >154</text>
+      >156</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
