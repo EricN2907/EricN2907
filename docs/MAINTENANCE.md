@@ -31,7 +31,7 @@ The Actions jobs have not been executed remotely as part of this local update. I
 
 ## Requested commit dates
 
-The six local profile-refresh commits use the requested author and committer timestamps at **12:00 +07:00** on **1, 4, 8, 13, 14 and 18 November 2025**. These timestamps are intentionally assigned metadata for changes prepared in November 2026; they are not a claim that the changes or card snapshots existed in 2025. Existing history was not rewritten.
+The six profile-refresh commits use the requested author and committer timestamps at **12:00 +07:00** on **1, 4, 8, 13, 14 and 18 November 2026**. These timestamps are intentionally assigned metadata for changes prepared on 25 November 2026; they are not a claim that the changes or card snapshots existed on the assigned dates. On 26 November 2026, the user corrected the requested year from 2025 to 2026. The six commits and their descendants were rewritten with a local backup; all file trees were preserved, and history before the profile refresh was unchanged.
 
 Commits must reach the default branch on GitHub and use an email connected to the account to count as profile contributions. Publication and graph updates are separate from creating local commits. See [GitHub's contribution troubleshooting guide](https://docs.github.com/en/account-and-profile/how-tos/contribution-settings/troubleshooting-missing-contributions).
 

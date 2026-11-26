@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp;
   <a href="#activity">Activity</a> &nbsp; / &nbsp;
-  <a href="#connect">Say hello</a>
+  <a href="#connect">Contact</a>
 </p>
 
 I'm **Nguyễn Hoàng Nam**, working toward becoming a backend / full-stack developer, with **.NET first**. I like useful APIs, clean project structure and learning by shipping small things.
@@ -87,7 +87,7 @@ My favorite reminder: `while (!Success) { tryAgain(); if (Success) improve(); }`
 ## 🤝 Let's Connect
 
 **Email:** [nemnguyenhoang2907@gmail.com](mailto:nemnguyenhoang2907@gmail.com)<br>
-**Facebook:** [Nemsadboiz2907](https://www.facebook.com/Nemsadboiz2907) · **Discord:** [Say hello](https://discord.com/users/935763643721711626)
+**Facebook:** [Nemsadboiz2907](https://www.facebook.com/Nemsadboiz2907) · **Discord:** [My Discord](https://discord.com/users/935763643721711626)
 
 > Feel free to connect with me. Let's learn and grow together!
 
